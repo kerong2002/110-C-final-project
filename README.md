@@ -1,6 +1,6 @@
 # 110-C-final-project  
 110-C-final-project   
-##1     
+##1  
 UVa-138 Street Numbers(數論題)  
 難度★★☆☆☆  
 透過等差數列求和公式，推得方程式結果  
