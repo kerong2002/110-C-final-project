@@ -26,10 +26,14 @@ UVa-10738 Riemann vs Mertens (質數建表，最佳化時間)
 難度★★★☆☆  
 ![image](https://github.com/kerong2002/110-C-final-project/blob/main/My%20Submissions/10738.PNG)  
 ## 7  
+Uva-11038 How many 0's? (數論，最佳化時間)  
+難度★★★☆☆   
+![image](https://github.com/kerong2002/110-C-final-project/blob/main/My%20Submissions/11038.PNG)  
+## 8    
 UVa-12338 Anti-Rhyme Pairs (字串比較，最佳化時間，二分法)  
 難度★★★☆☆  
 ![image](https://github.com/kerong2002/110-C-final-project/blob/main/My%20Submissions/12338.PNG)  
-## 8  
+## 9    
 UVa-12938 Just Another Easy Problem  (字串處理、枚舉)    
 難度★☆☆☆☆  
 ![image](https://github.com/kerong2002/110-C-final-project/blob/main/My%20Submissions/12938.PNG)  
