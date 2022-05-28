@@ -8,7 +8,7 @@ ALL PASS~\\(^o^)//~
 ## 2. UVa-338 Long Multiplication(大數乘法、字串處理)  
 難度★★☆☆☆    
 ![image](https://github.com/kerong2002/110-C-final-project/blob/main/My%20Submissions/338.PNG)  
-## 3. UVa-438 The Circumference of the Circle (餘弦正弦定理，反函數應用，徑度角度轉換)   
+## 3. UVa-438 The Circumference of the Circle (餘弦正弦定理，反函數應用，弧度角度轉換)   
 難度★★★☆☆  
 ![image](https://github.com/kerong2002/110-C-final-project/blob/main/My%20Submissions/438.PNG)  
 ## 4. UVa-538 Balancing Bank Accounts (數論，陣列處理)   
