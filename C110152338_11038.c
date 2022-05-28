@@ -1,3 +1,9 @@
+/* **************************************/
+/*  Problem: UVa 11038                  */
+/*  Language: C Language                */
+/*  Result: AC (0.000s) on Online Jedge */
+/*  Author: ³¯¬ì¿Ä 2022-05-28 05:54:47  */
+/* **************************************/
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

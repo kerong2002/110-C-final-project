@@ -1,3 +1,9 @@
+/* **************************************/
+/*  Problem: UVa 10738                  */
+/*  Language: C Language                */
+/*  Result: AC (0.030s) on Online Jedge */
+/*  Author: 陳科融 2022-05-27 03:42:44  */
+/* **************************************/
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
