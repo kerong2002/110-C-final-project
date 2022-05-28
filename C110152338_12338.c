@@ -2,7 +2,7 @@
 /*  Problem: UVa 12338                  */
 /*  Language: C Language                */
 /*  Result: AC (1.180s) on Online Jedge */
-/*  Author: ³¯¬ì¿Ä 2022-05-27 15:50:36  */
+/*  Author: é™³ç§‘è 2022-05-27 15:50:36  */
 /* **************************************/
 #include<stdio.h>
 #include<string.h>
